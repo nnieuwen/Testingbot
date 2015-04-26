@@ -1,19 +1,7 @@
-basicBot-customization
+TheArgonBot
 ======================
+A bot made for the Argon Community's Plug.dj.
 
-A not so basic bot for plug.dj 
-
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Yemasthui/basicBot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![facebook group](http://i.bnzi.uk/97dW.svg)](https://facebook.com/groups/basicBot) [![twitter](http://i.bnzi.uk/4KEn.svg)](https://twitter.com/bscBt)
-
-Stay updated on **basicBot**'s development by following the project on Twitter [@bscBt](http://twitter.com/bscBt)
-
-Created by [Yemasthui](https://github.com/Yemasthui) but now maintained by [Benzi](https://github.com/Benzi).
-
-(You can email me via hi@benzi.io or send me a message on [Gitter](https://gitter.im/Benzi) if you have any queries about the bot)
-
----
-
-Click [here](https://github.com/Yemasthui/basicBot) for basicBot's main repository.
 
 Using custom room settings or adding functionality is done by loading your own script loading and modifying the bot.
 This repository's purpose is to facilitate this. You can fork the repository and customise [the example script](https://github.com/Yemasthui/basicBot-customization/blob/master/extension.js). 
